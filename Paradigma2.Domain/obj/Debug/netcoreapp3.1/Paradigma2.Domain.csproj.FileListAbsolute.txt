@@ -1,0 +1,9 @@
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\bin\Debug\netcoreapp3.1\Paradigma2.Domain.deps.json
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\bin\Debug\netcoreapp3.1\Paradigma2.Domain.dll
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\bin\Debug\netcoreapp3.1\Paradigma2.Domain.pdb
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.csprojAssemblyReference.cache
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.AssemblyInfoInputs.cache
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.AssemblyInfo.cs
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.csproj.CoreCompileInputs.cache
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.dll
+D:\Paradigma3\Paradigma3\Paradigma2.Domain\obj\Debug\netcoreapp3.1\Paradigma2.Domain.pdb
