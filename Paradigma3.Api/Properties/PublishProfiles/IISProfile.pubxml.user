@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\publish\Paradigma3_Api</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/09/2021 10:34:48</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/12/2021 10:44:29</publishTime>
+    </File>
+    <File Include="DnsClient.dll">
+      <publishTime>03/31/2020 21:28:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>10/21/2020 00:07:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>10/21/2020 00:17:56</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:28</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>10/19/2020 18:48:54</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/19/2020 18:48:36</publishTime>
+    </File>
+    <File Include="MongoDB.Bson.dll">
+      <publishTime>12/02/2020 18:50:34</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Core.dll">
+      <publishTime>12/02/2020 18:50:40</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.dll">
+      <publishTime>12/02/2020 18:50:50</publishTime>
+    </File>
+    <File Include="MongoDB.Libmongocrypt.dll">
+      <publishTime>11/13/2019 20:35:30</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="Paradigma3.Api.deps.json">
+      <publishTime>01/12/2021 14:47:01</publishTime>
+    </File>
+    <File Include="Paradigma3.Api.dll">
+      <publishTime>01/12/2021 14:47:01</publishTime>
+    </File>
+    <File Include="Paradigma3.Api.exe">
+      <publishTime>01/12/2021 14:47:01</publishTime>
+    </File>
+    <File Include="Paradigma3.Api.pdb">
+      <publishTime>01/12/2021 14:47:01</publishTime>
+    </File>
+    <File Include="Paradigma3.Api.runtimeconfig.json">
+      <publishTime>01/12/2021 14:47:01</publishTime>
+    </File>
+    <File Include="Paradigma3.Application.dll">
+      <publishTime>01/12/2021 14:31:38</publishTime>
+    </File>
+    <File Include="Paradigma3.Application.pdb">
+      <publishTime>01/12/2021 14:31:38</publishTime>
+    </File>
+    <File Include="Paradigma3.Domain.dll">
+      <publishTime>01/12/2021 14:31:37</publishTime>
+    </File>
+    <File Include="Paradigma3.Domain.pdb">
+      <publishTime>01/12/2021 14:31:37</publishTime>
+    </File>
+    <File Include="Paradigma3.Infra.Data.dll">
+      <publishTime>01/12/2021 14:31:37</publishTime>
+    </File>
+    <File Include="Paradigma3.Infra.Data.pdb">
+      <publishTime>01/12/2021 14:31:37</publishTime>
+    </File>
+    <File Include="runtimes/win/native/libzstd.dll">
+      <publishTime>12/02/2020 17:54:24</publishTime>
+    </File>
+    <File Include="runtimes/win/native/snappy32.dll">
+      <publishTime>12/02/2020 17:54:24</publishTime>
+    </File>
+    <File Include="runtimes/win/native/snappy64.dll">
+      <publishTime>12/02/2020 17:54:24</publishTime>
+    </File>
+    <File Include="SharpCompress.dll">
+      <publishTime>02/27/2019 12:59:52</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/12/2021 14:47:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
